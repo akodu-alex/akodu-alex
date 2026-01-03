@@ -10,10 +10,10 @@ I'm a 400 level Mechatronics Engineering student at the Federal University of Ag
 - Graphic design and multimedia tools (Canva, Photoshop, Capcut)
 
 🔭 Projects & Work
-- Sensors and Actuators Training Kit – Simulated circuits using Wokwi and documented everything from design to testing.  
-- ESP32 Multivibrator Circuit – Built a small embedded system with LEDs and a buzzer.  
+- Sensors and Actuators Training Kit – Simulated circuits using Wokwi and documented everything from design to testing.   
+- [Sensors and Actuators Training Kit](https://github.com/akodu-alex/sensors-actuators-training-kit) – Group project, highlighting my contributions in simulation, coding, and documentation.
+- [NE555 Multivibrator Circuit](https://github.com/akodu-alex/ne555-multivibrator-circuit) – Personal project showcasing hands-on electronics with NE555.
 - Ongoing Projects – Exploring AI/ML applications in robotics and embedded systems.
-- [Sensors and Actuators Training Kit](https://github.com/akodu-alex/sensors-actuators-training-kit) – Group project, highlighting my contributions in simulation, coding, and documentation
 
 👯 I’m looking to collaborate on
 - IoT projects that combine sensors, actuators, and automation  

@@ -13,6 +13,7 @@ I'm a 400 level Mechatronics Engineering student at the Federal University of Ag
 - Sensors and Actuators Training Kit – Simulated circuits using Wokwi and documented everything from design to testing.  
 - ESP32 Multivibrator Circuit – Built a small embedded system with LEDs and a buzzer.  
 - Ongoing Projects – Exploring AI/ML applications in robotics and embedded systems.
+- [Sensors and Actuators Training Kit](https://github.com/akodu-alex/sensors-actuators-training-kit) – Group project, highlighting my contributions in simulation, coding, and documentation
 
 👯 I’m looking to collaborate on
 - IoT projects that combine sensors, actuators, and automation  
